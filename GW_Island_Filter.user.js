@@ -2,6 +2,8 @@
 // @name         GW_Island_Filter
 // @namespace    http://tampermonkey.net/
 // @version      2.2
+// @updateURL    https://github.com/Wise0ther/gw_island_filtr/raw/refs/heads/main/GW_Island_Filter.user.js
+// @downloadURL  https://github.com/Wise0ther/gw_island_filtr/raw/refs/heads/main/GW_Island_Filter.user.js
 // @description  Фильтрация по островам (G, Z) с размещением кнопки в блоке пагинации и заголовках
 // @author       Бурый_Медведь, программист чат-помощник Gemini
 // @match        *://www.gwars.io/statlist.php?r=*
